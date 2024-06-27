@@ -1,0 +1,6 @@
+# Ignora todos los archivos temporales de matlab .asv
+*.asv
+# Ignora los siguientes archivos
+Prueba.m
+PruebaLiveScript.mlx
+NewtonRaphson.m
